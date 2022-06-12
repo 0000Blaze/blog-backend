@@ -1,4 +1,4 @@
-# personalBlog
+# PersonalBlog
 ## Steps to get the project up and running
 
 1. In the project directory run:
